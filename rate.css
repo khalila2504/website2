@@ -1,0 +1,129 @@
+body {
+    margin: -8px;
+}
+
+ul {
+    margin: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+  }
+  
+  li {
+    float: left;
+    position: relative;
+    /* display: inline-block; */
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    /* top: 0; left: 0; */
+    /* width: 100%; */
+    padding: 15px 20px;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  .active {
+    background-color: #333;
+  }
+
+  h1 {
+    font-size: 100px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .rate {
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.header {
+    font-size: large;
+    font-weight: 300;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.p {
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.rating-box  {
+    display:flex;
+    flex-direction: row;
+    text-align: center;
+    border: 1px solid blue;
+    align-items: center;
+    margin: auto;
+}
+
+.rating-card {
+    border: 1px solid black;
+    width: 200px;
+}
+
+.point {
+    font-size: 75px;
+    width: 200px;
+    height: 100px;
+}
+
+.rater {
+    font-size: 20px;
+    width: 200px;
+    height: 30px;
+}
+
+.point2 {
+    font-size: 20px;
+    width: 20px;
+}
+
+.point3 {
+    flex-direction: row;
+} */
